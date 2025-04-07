@@ -60,6 +60,12 @@ body{
     background-color: white;
 }
 
+#wite2{
+    width: auto;
+    height: 810px;
+    background-color: white;
+}
+
 #main-photo {
     margin-top:25px;
     max-width: 70%;
